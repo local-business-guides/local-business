@@ -13,6 +13,9 @@
 - [Apartment Cleaning in City, Planned Around Your Home](https://local-business-guides.github.io/local-business/apartment-cleaning/): Arrange Apartment Cleaning in [City] with a clear room list and realistic priorities. Discuss your apartment's access details and call [Phone] to plan a visit
 - [Move-out Cleaning for a Clearer Home Handover](https://local-business-guides.github.io/local-business/move-out-cleaning/): Move-out Cleaning in [City] helps you leave a cleared home easier to hand over. Ask [Business name] what to include, then call to discuss scheduling.
 
+## Newsroom
+- [New Los Angeles House Cleaning Guide Released With Video and Audio](https://local-business-guides.github.io/local-business/news/2026-11-16-new-los-angeles-house-cleaning-guide-released-with/): A guide to Los Angeles House Cleaning was published this week with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-16)
+
 ## Pages
 - [Los Angeles House Cleaning](https://local-business-guides.github.io/local-business/): Enjoy a home that feels fresh and cared for; contact us to talk through your cleaning needs. Call .
 - [About and Contact](https://local-business-guides.github.io/local-business/about/): About .
@@ -20,3 +23,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/local-business/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/local-business/news/rss.xml)
